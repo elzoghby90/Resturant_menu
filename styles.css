@@ -60,7 +60,7 @@ body {
   background-image: "./menuItems/light_noise.png";
   color: var(--clr-grey-1);
   line-height: 1.5;
-  font-size: 0.875rem;
+  font-size: 0.2rem;
 }
 ul {
   list-style-type: none;
